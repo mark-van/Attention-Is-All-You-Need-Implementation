@@ -13,4 +13,9 @@ the model received a BLEU score of 36.56 after being trained on Google Colab
 with Nvidia’s T4 GPU for under 2 hours–making my test results easy to reproduce
 for readers. A transformer model diagram is provided with more detail than any
 diagram readily obtainable on the web, and attention graphs are employed to show
-the final results of self-attention on different sentences.
+the final results of self-attention on different sentences.  
+
+  
+
+**Notebook is easier to read on Collab:**  
+[Google Collab for Attention Is All You Need Jupyter Notebook](https://drive.google.com/file/d/1XJQfzagSdmPsJGr6PHFEzhyryGISdUKp/view?usp=share_link)
