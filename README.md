@@ -19,3 +19,6 @@ the final results of self-attention on different sentences.
 
 **Notebook is easier to read on Collab:**  
 [Google Collab for Attention Is All You Need Jupyter Notebook](https://drive.google.com/file/d/1XJQfzagSdmPsJGr6PHFEzhyryGISdUKp/view?usp=share_link)
+
+**Academic paper decsciping my model:**  
+[Attention Is All You Need Implementation](CPEN400D_PROJECT.pdf)
